@@ -1,0 +1,2 @@
+# baitap
+hoc python
